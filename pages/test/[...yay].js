@@ -1,5 +1,5 @@
 export default function Yay() {
-  return 'hello world!';
+  return 'hello world! 2';
 }
 
 export const getStaticPaths = async () => {
